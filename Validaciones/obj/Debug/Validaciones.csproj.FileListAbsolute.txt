@@ -1,0 +1,9 @@
+C:\Curso C#\CrudBubuAsp\Validaciones\bin\Debug\Validaciones.dll
+C:\Curso C#\CrudBubuAsp\Validaciones\bin\Debug\Validaciones.pdb
+C:\Curso C#\CrudBubuAsp\Validaciones\bin\Debug\BaseDatos.dll
+C:\Curso C#\CrudBubuAsp\Validaciones\bin\Debug\BaseDatos.pdb
+C:\Curso C#\CrudBubuAsp\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Curso C#\CrudBubuAsp\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Curso C#\CrudBubuAsp\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Curso C#\CrudBubuAsp\Validaciones\obj\Debug\Validaciones.dll
+C:\Curso C#\CrudBubuAsp\Validaciones\obj\Debug\Validaciones.pdb

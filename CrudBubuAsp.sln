@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGrafica", "IGrafica\IGrafica.csproj", "{AE44E159-9EED-477A-8050-ED3F6D0606D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validaciones", "Validaciones\Validaciones.csproj", "{F05F3581-F6C7-45EE-BE41-889EA568EEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos", "BaseDatos\BaseDatos.csproj", "{9C0BCFA9-B7A2-4A47-A759-1724230D0D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE44E159-9EED-477A-8050-ED3F6D0606D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE44E159-9EED-477A-8050-ED3F6D0606D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE44E159-9EED-477A-8050-ED3F6D0606D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE44E159-9EED-477A-8050-ED3F6D0606D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05F3581-F6C7-45EE-BE41-889EA568EEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05F3581-F6C7-45EE-BE41-889EA568EEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05F3581-F6C7-45EE-BE41-889EA568EEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05F3581-F6C7-45EE-BE41-889EA568EEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0BCFA9-B7A2-4A47-A759-1724230D0D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0BCFA9-B7A2-4A47-A759-1724230D0D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0BCFA9-B7A2-4A47-A759-1724230D0D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0BCFA9-B7A2-4A47-A759-1724230D0D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C7D802-F9A3-4F3F-9751-334864736353}
+	EndGlobalSection
+EndGlobal

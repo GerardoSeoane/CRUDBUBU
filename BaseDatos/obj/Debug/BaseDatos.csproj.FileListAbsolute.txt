@@ -1,0 +1,6 @@
+C:\Curso C#\CrudBubuAsp\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Curso C#\CrudBubuAsp\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Curso C#\CrudBubuAsp\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Curso C#\CrudBubuAsp\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Curso C#\CrudBubuAsp\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Curso C#\CrudBubuAsp\BaseDatos\obj\Debug\BaseDatos.pdb
